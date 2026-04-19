@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "welcome-post",
+      "title": "Welcome to Modula MC Launcher!",
+      "category": "Minecraft: Java Edition",
+      "tag": "News",
+      "date": "2026-04-19",
+      "text": "Modula Launcher is officially out! Experience lightning fast modpack installations, a seamless golden waves UI, and our custom seamless migration tools.",
+      "readMoreLink": "https://discord.gg/your_discord_invite_here",
+      "newsType": ["News"],
+      "cardBorder": true,
+      "playPageImage": { 
+        "url": "https://i.imgur.com/your_banner_image_here.png", 
+        "title": "Modula Banner" 
+      },
+      ...
+    }
+  ]
+}
