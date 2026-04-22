@@ -12,11 +12,11 @@
       "newsType": ["News"],
       "cardBorder": true,
       "playPageImage": { 
-        "url": "https://i.ibb.co/YnY2kxz/modualanews.png", 
+        "url": "https://i.ibb.co/GQ831f59/modulanews2.png", 
         "title": "Modula Banner" 
       },
       "newsPageImage": {
-        "url": "https://i.ibb.co/RkXBpzpW/modulanews2.png",
+        "url": "https://i.ibb.co/2YHJm6rT/modualanews.png",
         "title": "Modula Banner",
         "dimensions": {
           "width": 1024,
