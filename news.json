@@ -1,27 +1,44 @@
- {
+{
   "version": 1,
   "entries": [
     {
-      "id": "welcome-post",
+      "id": "welcome-modula",
       "title": "Welcome to Modula MC Launcher!",
-      "category": "Minecraft: Java Edition",
-      "tag": "News",
-      "date": "2026-04-19",
-      "text": "Modula Launcher is officially out! Experience lightning fast modpack installations, a seamless golden waves UI, and our custom seamless migration tools.",
-      "readMoreLink": "https://discord.gg/modula",
+      "category": "Java Edition",
+      "tag": "NEWS",
+      "date": "2026-04-22",
+      "text": "Modula Launcher is officially live! Experience lightning-fast installations, a seamless Golden Flux UI, and our custom migration tools.",
+      "readMoreLink": "https://discord.gg/Nyq8JUZr6K",
       "newsType": ["News"],
       "cardBorder": true,
       "playPageImage": { 
         "url": "https://i.ibb.co/GQ831f59/modulanews2.png", 
-        "title": "Modula Banner" 
+        "title": "Main Banner" 
       },
-      "newsPageImage": {
-        "url": "https://i.ibb.co/2YHJm6rT/modualanews.png",
-        "title": "Modula Banner",
-        "dimensions": {
-          "width": 1024,
-          "height": 512
-        }
+      "newsPageImage": { 
+        "url": "https://i.ibb.co/2YHJm6rT/modualanews.png", 
+        "title": "Detail View",
+        "dimensions": { "width": 1024, "height": 512 }
+      }
+    },
+    {
+      "id": "modula-textures-announcement",
+      "title": "Coming Soon: Official Textures!",
+      "category": "Modpacks",
+      "tag": "UPDATE",
+      "date": "2026-04-23",
+      "text": "We are hard at work on the first official Modula high-performance texture pack. Stay tuned to our Discord for the early access beta!",
+      "readMoreLink": "https://discord.gg/Nyq8JUZr6K",
+      "newsType": ["News"],
+      "cardBorder": true,
+      "playPageImage": { 
+        "url": "https://i.ibb.co/2YHJm6rT/modualanews.png", 
+        "title": "Texture Preview" 
+      },
+      "newsPageImage": { 
+        "url": "https://i.ibb.co/GQ831f59/modulanews2.png", 
+        "title": "Secondary View",
+        "dimensions": { "width": 1024, "height": 512 }
       }
     }
   ]
