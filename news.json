@@ -8,14 +8,21 @@
       "tag": "News",
       "date": "2026-04-19",
       "text": "Modula Launcher is officially out! Experience lightning fast modpack installations, a seamless golden waves UI, and our custom seamless migration tools.",
-      "readMoreLink": "https://discord.gg/your_discord_invite_here",
+      "readMoreLink": "https://discord.gg/modula",
       "newsType": ["News"],
       "cardBorder": true,
       "playPageImage": { 
-        "url": "https://i.imgur.com/your_banner_image_here.png", 
+        "url": "https://i.ibb.co/YnY2kxz/modualanews.png", 
         "title": "Modula Banner" 
       },
-      ...
+      "newsPageImage": {
+        "url": "https://i.ibb.co/RkXBpzpW/modulanews2.png",
+        "title": "Modula Banner",
+        "dimensions": {
+          "width": 1024,
+          "height": 512
+        }
+      }
     }
   ]
 }
