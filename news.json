@@ -1,4 +1,4 @@
-{
+ {
   "version": 1,
   "entries": [
     {
@@ -7,31 +7,22 @@
       "category": "Minecraft: Java Edition",
       "tag": "News",
       "date": "2026-04-19",
-      "text": "Modula Launcher is officially out! Experience lightning fast modpack installations...",
+      "text": "Modula Launcher is officially out! Experience lightning fast modpack installations, a seamless golden waves UI, and our custom seamless migration tools.",
       "readMoreLink": "https://discord.gg/modula",
       "newsType": ["News"],
       "cardBorder": true,
       "playPageImage": { 
         "url": "https://i.ibb.co/GQ831f59/modulanews2.png", 
-        "title": "Modula Banner 1" 
+        "title": "Modula Banner" 
       },
-      "newsPageImage": { "url": "https://i.ibb.co/2YHJm6rT/modualanews.png", "title": "Detail Image 1" }
-    },
-    {
-      "id": "second-post",
-      "title": "Coming Soon: Texture Pack!",
-      "category": "Minecraft: Java Edition",
-      "tag": "Update",
-      "date": "2026-04-22",
-      "text": "Our Own Modula, From Our Own Kerala.",
-      "readMoreLink": "https://discord.gg/modula",
-      "newsType": ["News"],
-      "cardBorder": true,
-      "playPageImage": { 
-        "url": "https://i.ibb.co/2YHJm6rT/modualanews.png", 
-        "title": "Modula Banner 2" 
-      },
-      "newsPageImage": { "url": "https://i.ibb.co/GQ831f59/modulanews2.png", "title": "Detail Image 2" }
+      "newsPageImage": {
+        "url": "https://i.ibb.co/2YHJm6rT/modualanews.png",
+        "title": "Modula Banner",
+        "dimensions": {
+          "width": 1024,
+          "height": 512
+        }
+      }
     }
   ]
 }
