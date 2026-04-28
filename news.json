@@ -3,16 +3,16 @@
   "entries": [
     {
       "id": "welcome-modula",
-      "title": "Welcome to Modula MC Launcher!",
+      "title": "1.4.0 Is Here!",
       "category": "Java Edition",
       "tag": "NEWS",
       "date": "2026-04-22",
-      "text": "Modula Launcher is officially live! Experience lightning-fast installations, a seamless Golden Flux UI, and our custom migration tools.",
-      "readMoreLink": "https://discord.gg/Nyq8JUZr6K",
+      "text": "Lets Grow Our Community",
+      "readMoreLink": "https://discord.gg/wDhnzSdQCN",
       "newsType": ["News"],
       "cardBorder": true,
       "playPageImage": { 
-        "url": "https://i.ibb.co/GQ831f59/modulanews2.png", 
+        "url": "https://i.ibb.co/8nGNSFd8/modulanews4.png", 
         "title": "Main Banner" 
       },
       "newsPageImage": { 
@@ -28,7 +28,7 @@
       "tag": "UPDATE",
       "date": "2026-04-23",
       "text": "We are hard at work on the first official Modula high-performance texture pack. Stay tuned to our Discord for the early access beta!",
-      "readMoreLink": "https://discord.gg/Nyq8JUZr6K",
+      "readMoreLink": "https://discord.gg/wDhnzSdQCN",
       "newsType": ["News"],
       "cardBorder": true,
       "playPageImage": { 
