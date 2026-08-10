@@ -3,11 +3,11 @@
   "entries": [
     {
       "id": "welcome-modula",
-      "title": "1.5.0 Is Here!",
+      "title": "1.7.0 Is Here!",
       "category": "Java Edition",
       "tag": "NEWS",
       "date": "2026-04-22",
-      "text": "Lets Grow Our Community",
+      "text": "Bes",
       "readMoreLink": "https://discord.gg/wDhnzSdQCN",
       "newsType": ["News"],
       "cardBorder": true,
@@ -32,11 +32,11 @@
       "newsType": ["News"],
       "cardBorder": true,
       "playPageImage": { 
-        "url": "https://i.ibb.co/2YHJm6rT/modualanews.png", 
+        "url": "https://i.ibb.co/1tWxrkWt/modulanews2.png", 
         "title": "Texture Preview" 
       },
       "newsPageImage": { 
-        "url": "https://i.ibb.co/GQ831f59/modulanews2.png", 
+        "url": "https://i.ibb.co/nqMN0F0y/modulanews.png", 
         "title": "Secondary View",
         "dimensions": { "width": 1024, "height": 512 }
       }
