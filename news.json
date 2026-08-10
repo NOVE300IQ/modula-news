@@ -1,44 +1,45 @@
 {
-  "version": 1,
   "entries": [
     {
-      "id": "welcome-modula",
-      "title": "1.7.0 Is Here!",
-      "category": "Java Edition",
-      "tag": "NEWS",
-      "date": "2026-04-22",
-      "text": "Bes",
-      "readMoreLink": "https://discord.gg/wDhnzSdQCN",
-      "newsType": ["News"],
-      "cardBorder": true,
-      "playPageImage": { 
-        "url": "https://i.ibb.co/8DwXKVFd/Untitled.jpg", 
-        "title": "Main Banner" 
+      "category": "Update",
+      "title": "v1.7.0 Released",
+      "text": "Bug fixes and improvements",
+      "date": "2025-01-15",
+      "readMoreLink": "https://modulamc.in/news/1-7-0",
+      "newsPageImage": {
+        "url": "https://i.ibb.co/1tWxrkWt/modulanews2.png",
+        "dimensions": {
+          "width": 640,
+          "height": 320
+        }
       },
-      "newsPageImage": { 
-        "url": "https://i.ibb.co/1tWxrkWt/modulanews2.png", 
-        "title": "Detail View",
-        "dimensions": { "width": 1024, "height": 512 }
+      "playPageImage": {
+        "url": "https://i.ibb.co/1tWxrkWt/modulanews2.png",
+        "dimensions": {
+          "width": 640,
+          "height": 320
+        }
       }
     },
     {
-      "id": "modula-textures-announcement",
-      "title": "Coming Soon: Official Textures!",
-      "category": "Modpacks",
-      "tag": "UPDATE",
-      "date": "2026-04-23",
-      "text": "We are hard at work on the first official Modula high-performance texture pack. Stay tuned to our Discord for the early access beta!",
-      "readMoreLink": "https://discord.gg/wDhnzSdQCN",
-      "newsType": ["News"],
-      "cardBorder": true,
-      "playPageImage": { 
-        "url": "https://i.ibb.co/1tWxrkWt/modulanews2.png", 
-        "title": "Texture Preview" 
+      "category": "Partner",
+      "title": "WASD MC Partner",
+      "text": "Check out our new partner",
+      "date": "2025-01-05",
+      "readMoreLink": "https://wasdmc.fun",
+      "newsPageImage": {
+        "url": "https://raw.githubusercontent.com/NOVE300IQ/modula-news/main/banners/novemc-partner.png",
+        "dimensions": {
+          "width": 640,
+          "height": 320
+        }
       },
-      "newsPageImage": { 
-        "url": "https://i.ibb.co/nqMN0F0y/modulanews.png", 
-        "title": "Secondary View",
-        "dimensions": { "width": 1024, "height": 512 }
+      "playPageImage": {
+        "url": "https://raw.githubusercontent.com/NOVE300IQ/modula-news/main/banners/novemc-partner.png",
+        "dimensions": {
+          "width": 640,
+          "height": 320
+        }
       }
     }
   ]
